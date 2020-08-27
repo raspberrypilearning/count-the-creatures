@@ -86,13 +86,13 @@ set video transparency to [0]
 turn video [on v]
 set [ghost v] effect to [80]
 forever
-+if <<touching color [#FF6E66] ?> or <>> then
++if < <touching color [#FF6E66] ?> or < > > then
 say [red] for [2] secs
 end
-+if <<touching color [#00D6FF] ?> or <>>  then
++if < <touching color [#00D6FF] ?> or < > >  then
 say [blue] for [2] secs
 end
-+if <<touching color [#62E09A] ?> or <>> then
++if < <touching color [#62E09A] ?> or < > > then
 say [green] for [2] secs
 end
 ``` 
