@@ -120,6 +120,8 @@ forever
 
 Now add a `say for 2 seconds`{:class="block3looks"} adding in the text for the colour you selected.
 
+![image of target sprite](images/target-sprite.png)
+
 ```blocks3
 when flag clicked
 set video transparency to [0]
@@ -127,7 +129,7 @@ turn video [on v]
 set [ghost v] effect to [80]
 forever
 +if <touching color [#FF6E66] ?> then
-say [red] for [2] sec
+say [red] for [2] secs
 ```
 
 --- /task ---
