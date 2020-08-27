@@ -1,7 +1,23 @@
-## What next?
+## Step title
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+Add an introductory sentence. What will learners achieve by the end of this step?
 
-![ProjectName project](images/projectname-project.png)
+--- task ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+If working **online**, open the [starter project](http://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
+ 
+If working **offline**, open the project [starter file](http://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
+
+You should see...
+ 
+![starter project](images/starter_project.png)
+
+--- /task ---
+
+--- task ---
+
+Step content...
+
+--- /task ---
+
+--- save ---

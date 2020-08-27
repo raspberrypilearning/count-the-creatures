@@ -1,11 +1,11 @@
 ## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+In this project you will be creating a wild life camera, that can count the number of birds, of different colours, that pass infront of the camera's view.
 
 ### What you will make
 
 --- no-print ---
-Add instructions for interacting with the embedded content here.
+Allow your web-browser to access your camera, and then click the green flag. If you pass different coloured, red, green or blue, objects pass the centre of the screen, the number of birds of each colour will increase.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
@@ -22,13 +22,11 @@ title: What you will need
 ---
 ### Hardware
 
-+ A computer or tablet capable of running Scratch 3
++ A computer or tablet capable of running Scratch 3 with a web cam.
 
 ### Software
 
 + Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
 
 ### Downloads
 
@@ -41,9 +39,9 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
++ Use `broadcast`{:class="block3events"} blocks to communicate between sprites
++ Use the `video`{:class="block3extensions"} library to detect colours
++ Use the `or operator`{:class="block3operators"} to detect a range of colours.
 
 --- /collapse ---
 
