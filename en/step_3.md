@@ -131,4 +131,21 @@ Test your code still works, by clicking the `green flag`{:class="block3events"} 
 
 --- /task ---
 
+--- collapse ---
+---
+
+title: More colours with nesting blocks
+
+---
+
+If you need to it is possible to nest `or`{:class="block3operators"} blocks inside each other, like this
+
+```blocks3
+<<<touching color [#62EF9A] ?> or <touching color [#A9E6A1] ?>> or <<touching color [#A2F090] ?> or <touching color [#69C6AF] ?>>>
+```
+
+--- /collapse ---
+
+
+
 --- save ---
