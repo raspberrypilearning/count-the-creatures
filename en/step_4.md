@@ -18,9 +18,9 @@ Click on the **Costumes** tab and change the colour of the animal so that it mat
 
 --- task ---
 
-Now go back to your **target** sprite. In the `Events`{:class="block3events"} menu you can drag a `broadcast [message1 v] `{:class="block3events"} block and then create a new message
+Now go back to your **target** sprite. In the `Events`{:class="block3events"} menu you can drag a `broadcast [message1 v]`{:class="block3events"} block and then create a new message
 
-![image of the menu selection for a broadcast block](new-message.png)
+![image of the menu selection for a broadcast block](images/new-message.png)
 
 Call the message `red` or whatever the first colour of your paper was.
 
@@ -85,9 +85,30 @@ end
 
 Click back to you animal sprite. Position and size your animal so if fits nicely on the left hand side of the **Stage**.
 
-![image showing animal sprite on upper left hand side of the stage](sprite-on-stage.png)
+![image showing animal sprite on upper left hand side of the stage](images/sprite-on-stage.png)
 
 --- /task ---
+
+--- task ---
+
+Now add code so that the sprite moves across the screen, each time it receives the `red`{:class="block3events"} broadcast
+
+![image of the toucan sprite](images/animal-sprite.png)
+
+```blocks3
+when I receive [red v]
+change x by [10]
+```
+
+--- /task ---
+
+--- task ---
+
+Hold up your paper so it touches the target and make sure your sprite moves across the screen.
+
+--- /task ---
+
+--- save ---
 
 
 
