@@ -83,9 +83,9 @@ end
 
 --- task ---
 
-Click back to you animal sprite. Position and size your animal so if fits nicely on the left hand side of the **Stage**.
+Click back to you animal sprite. Position and size your animal so if fits nicely on the left hand side of the **Stage**, below the **target** sprite.
 
-![image showing animal sprite on upper left hand side of the stage](images/sprite-on-stage.png)
+![image showing animal sprite on lower left hand side of the stage](images/sprite-on-stage.png)
 
 --- /task ---
 
