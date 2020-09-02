@@ -1,6 +1,6 @@
-title: counting-creatures
+title: Counting creatures
 hero_image: images/banner.png
-description: counting-creatures description
+description: Create a wild life camera, that can count the number of birds, of different colours, that pass in front of the camera’s view.
 version: 4
 listed: false
 copyedit: false
