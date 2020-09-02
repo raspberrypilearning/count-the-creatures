@@ -71,7 +71,7 @@ Test out your code, by clicking the green flag and holding up the different colo
 
 --- /task ---
 
-Depending on how the light in the room changes, the angle that you hold the paper at, and the quality of your webcam, you may find that sometimes the colouyr is not detected. To help with this, you can have the `touching color`{:class="block3sensing"} blocks detect more than one colour.
+Depending on how the light in the room changes, the angle that you hold the paper at, and the quality of your webcam, you may find that sometimes the colour is not detected. To help with this, you can have the `touching color`{:class="block3sensing"} blocks detect more than one colour.
 
 --- task ---
 

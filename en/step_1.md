@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project you will be creating a wild life camera, that can count the number of birds, of different colours, that pass infront of the camera's view.
+In this project you will be creating a wild life camera, that can count the number of birds, of different colours, that pass in front of the camera's view.
 
 ### What you will make
 

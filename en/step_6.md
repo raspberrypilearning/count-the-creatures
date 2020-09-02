@@ -4,11 +4,11 @@ In this step you will add more coloured animals to count.
 
 --- task ---
 
-Right click on your animal sprite, **duplicate** it, and then use the **Costumes** tab to recolour the spirite.
+Right click on your animal sprite, **duplicate** it, and then use the **Costumes** tab to re-colour the sprite.
 
 --- print-only ---
 
-![gif showing duplication and recolouring of the spirte](images/duplicate-colour-sprite.gif)
+![gif showing duplication and re-colouring of the sprite](images/duplicate-colour-sprite.gif)
 
 --- /print-only ---
 
@@ -73,7 +73,7 @@ hide
 
 --- task ---
 
-Test your code by holding up the paper infront of the camera, and making sure that the sprites advance and stamp each time.
+Test your code by holding up the paper in front of the camera, and making sure that the sprites advance and stamp each time.
 
 --- /task ---
 

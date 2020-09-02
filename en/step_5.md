@@ -23,7 +23,7 @@ change x by [10]
 
 --- task ---
 
-Click the green glag and then hold your coloured paper up to the camera. You should see the animal move across the screen, and leave behind a stamped image of itself.
+Click the green flag and then hold your coloured paper up to the camera. You should see the animal move across the screen, and leave behind a stamped image of itself.
 
 --- /task ---
 

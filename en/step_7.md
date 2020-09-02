@@ -1,12 +1,12 @@
-## Challenge: Oragami animals!
+## Challenge: Origami animals!
 
 --- task ---
 
-Another optional exercise is to create oragami animals that represent the animals you are counting. You can find many different oragami animals to create [here](http://rpf.io/oragami)
+Another optional exercise is to create origami animals that represent the animals you are counting. You can find many different origami animals to create [here](http://rpf.io/origami)
 
 --- no-print ---
 
-![animated gif showing oragami birds flying over target and being counted](images/oragami-count.gif)
+![animated gif showing origami birds flying over target and being counted](images/origami-count.gif)
 
 --- /no-print ---
 

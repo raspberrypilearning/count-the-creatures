@@ -97,9 +97,9 @@ Click on the coloured oval within the `touching color`{:class="block3sensing"} b
 
 ![image showing the eye dropper tool](images/eye-dropper-tool.png)
 
-Now hold up one of you coloured pieces of paper infront of the camera, and use the **eye dropper** tool to select the colour of the paper.
+Now hold up one of you coloured pieces of paper in front of the camera, and use the **eye dropper** tool to select the colour of the paper.
 
-![image showing the paper being held infront of the camera and the eye dropper tool being used to select the colour of the paper](images/select-colour.png)
+![image showing the paper being held in front of the camera and the eye dropper tool being used to select the colour of the paper](images/select-colour.png)
 
 That colour should now be visible in the `touching color`{:class="block3sensing"} block.
 
