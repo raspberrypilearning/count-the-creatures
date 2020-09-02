@@ -64,7 +64,7 @@ Add the following script to the animal sprite, to reset the animal's position an
 when flag clicked
 hide
 erase all
-got to x: [-200] y: [-90]
+go to x: [-200] y: [-90]
 ```
 
 --- /task ---

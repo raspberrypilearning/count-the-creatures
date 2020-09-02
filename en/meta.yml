@@ -10,3 +10,9 @@ steps:
   - title: Detecting colours
   - title: More colours
   - title: Broadcasting colours
+  - title: Counting colours
+  - title: More animals
+  - title: "Challenge: Oragami animals!"
+    challenge: true
+  - title: Share your project
+  - title: What next?
