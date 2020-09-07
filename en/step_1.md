@@ -45,7 +45,7 @@ title: What you will learn
 
 + Use `broadcast`{:class="block3events"} blocks to communicate between sprites
 + Use the `video`{:class="block3extensions"} extension to detect colours
-+ Use the `or operator`{:class="block3operators"} to detect a range of colours.
++ Use the `or operator`{:class="block3operators"} to detect a range of colours
 
 --- /collapse ---
 
