@@ -113,7 +113,7 @@ set video transparency to [0]
 turn video [on v]
 set [ghost v] effect to [80]
 forever
-+if <touching color [#FF9A94] ?> then
++if <touching color [#FF6E66] ?> then
 ```
 
 --- /task ---
