@@ -47,7 +47,7 @@ change x by [10]
 
 --- task ---
 
-Click the green flag and test out the motion and stamping of the sprite why you hold up the coloured paper to the camera.
+Click the green flag and test out the motion and stamping of the sprite whilst you hold up the coloured paper to the camera.
 
 --- /task ---
 
