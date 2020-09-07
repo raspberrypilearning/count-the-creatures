@@ -10,13 +10,13 @@ Select your animal sprite, and then in the code tab, add the `Pen`{:class="block
 
 --- task ---
 
-Each time the sprite moves, it can `stamp`{:class="block3extensions"} an image of itself on the stage.
+Each time the sprite moves, it can `stamp`{:class="block3extensions"} an image of itself on the stage:
 
 ![image of the toucan sprite](images/animal-sprite.png)
 
 ```blocks3
 when I receive [red v]
-stamp
++ stamp
 change x by [10]
 ```
 --- /task ---
@@ -31,7 +31,7 @@ At the moment, as the sprite is visible, you are counting one to many animals. Y
 
 --- task ---
 
-Add the following code, to hide and show the sprite as it moves.
+Add the following code, to hide and show the sprite as it moves:
 
 ![image of the toucan sprite](images/animal-sprite.png)
 
@@ -56,7 +56,7 @@ To finish off, the stage needs resetting each time the green flag is clicked.
 
 --- task ---
 
-Add the following script to the animal sprite, to reset the animal's position and clear the screen of the stamps.
+Add the following script to the animal sprite, to reset the animal's position and clear the screen of the stamps:
 
 ![image of the toucan sprite](images/animal-sprite.png)
 
