@@ -1,12 +1,12 @@
 ## Introduction
 
-In this project you will be creating a wildlife camera, that can count the number of birds, of different colours, that pass in front of the camera's view.
+In this project you will be creating a wildlife camera, that can count the number of birds, of different colours, that pass in front of the camera's view. 
 
 ### What you will make
 
---- no-print ---
-Allow your web-browser to access your camera, and then click the green flag. If you pass different coloured, red, green or blue, objects past the centre of the screen, the number of birds of each colour will increase.
+When the user passes a different coloured object (red, green or blue) past the centre of the screen, then the number of birds of each colour will increase.
 
+--- no-print ---
 <div class="scratch-preview">
 <iframe src="https://scratch.mit.edu/projects/422092630/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
