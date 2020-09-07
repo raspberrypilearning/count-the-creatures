@@ -22,7 +22,7 @@ Go back to your **target** sprite. In the `Events`{:class="block3events"} menu y
 
 ![image of the menu selection for a broadcast block](images/new-message.png)
 
-Call the message `red` or whatever the first colour of your paper/object was.
+Call the message `red` or whatever the first colour of your paper was.
 
 ![image showing the naming dialogue box, with red typed in](images/message-red.png)
 
