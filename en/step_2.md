@@ -32,11 +32,11 @@ Use the **Circle** and **Line** tools, to create a target sprite at the centre o
 
 Click on the **Code** tab for your new sprite, and then the **Add Extension** button in the bottom left hand corner of the screen.
 
-![image showing add extension button](images/add-extension.png)
+![image showing add extension button](images/add-extension-block.png)
 
-Select the **Video sensing** library.
+Select the **Video sensing** extension block.
 
-![image showing the graphic for the video sensing library](images/video-sensing-library.png)
+![image showing the graphic for the video sensing extension block](images/video-sensing-extension-block.png)
 
 If asked, **Allow** access to your webcam.
 
@@ -58,8 +58,6 @@ set video transparency to [0]
 turn video [on v]
 set [ghost v] effect to [80]
 ```
-
-
 --- /task ---
 
 --- task ---
@@ -97,7 +95,7 @@ forever
 
 --- task ---
 
-Click on the coloured oval within the `touching color`{:class="block3sensing"} block, and then select the **eye dropper** tool. 
+Click on the coloured oval within the `touching color`{:class="block3sensing"} block, and then select the **eye dropper** tool which you will find below the three colour sliders. 
 
 ![image showing the eye dropper tool](images/eye-dropper-tool.png)
 
