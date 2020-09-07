@@ -22,8 +22,7 @@ Repeat this process so that you have three animal sprites that match the colours
 
 --- task ---
 
-Now you need to edit the code, so that each of the sprites has a unique starting position.
-
+Now you need to edit the code, so that each of the sprites has a unique starting position:
 
 ![image of blue toucan sprite](images/blue-toucan.png)
 
@@ -40,7 +39,7 @@ go to x: [-200] y: [-120]
 when flag clicked
 hide
 erase all
-go to x: [-200] y: [-120]
+go to x: [-200] y: [-150]
 ```
 --- /task ---
 
@@ -48,7 +47,7 @@ If you were to test your script at the moment, then a single colour would cause 
 
 --- task ---
 
-Change the broadcast trigger for each of the new sprites.
+Change the broadcast trigger for each of the new sprites:
 
 ![image of blue toucan sprite](images/blue-toucan.png)
 
