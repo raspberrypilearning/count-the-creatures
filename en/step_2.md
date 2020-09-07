@@ -4,15 +4,17 @@ In this step you will learn how to use the `video`{:class="block3extensions"} li
 
 --- task ---
 
-If working **online**, open the [Scratch](http://scratch.mit.edu){:target="_blank"}.
- 
-If working **offline**, open a new project in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
+Open a new Scratch project.
+
+**Online:** open a new online Scratch project at [scratch.mit.edu](https://scratch.mit.edu/projects/editor/){:target=”_blank”}.
+
+**Offline:** open a new project in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download){:target=”_blank”}.
 
 --- /task ---
 
 --- task ---
 
-Begin my deleting **Sprite1**. Then create a new sprite using the **Paint** tool.
+Begin by deleting **Sprite1**. Then create a new sprite using the **Paint** tool.
 
 ![image showing the new sprite paint tool being selected](images/paint-new-sprite.png)
 
@@ -42,9 +44,11 @@ If asked, **Allow** access to your webcam.
 
 --- /task ---
 
+Now you need to turn video on to ativate the computer's camera.
+
 --- task ---
 
-Add the following blocks to turn on the camera `set video transparency to 0`{:class="block3extensions"} and `set ghost effect to 80`{:class="block3looks"}, when `green flag clicked`{:class="block3events"}.
+Add  the following blocks: `green flag clicked`{:class="block3events"}, `set video transparency to`{:class="block3extensions"} `0` and `set effect to`{:class="block3looks"}`80`:
 
 ![image of target sprite](images/target-sprite.png)
 
