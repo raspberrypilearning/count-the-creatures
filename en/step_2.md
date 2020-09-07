@@ -120,7 +120,7 @@ forever
 
 --- task ---
 
-Now add a `say for 2 seconds`{:class="block3looks"} adding in the text for the colour you selected:
+Add a `say for 2 seconds`{:class="block3looks"} adding in the text for the colour you selected:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -138,7 +138,7 @@ say [red] for [2] secs
 
 --- task ---
 
-Now click the `green flag`{:class="block3control"} and hold up the paper and wave it over the target a few times, and it should say `red`{:class="block3looks"}.
+Click the `green flag`{:class="block3control"} and hold up the paper and wave it over the target a few times, and it should say `red`{:class="block3looks"}.
 
 --- print-only ---
 
