@@ -22,7 +22,7 @@ Begin by deleting **Sprite1**. Then create a new sprite using the **Paint** tool
 
 --- task ---
 
-Use the **Circle** and **Line** tools, to create a target sprite at the centre of the canvas. You can fill the circle with any colour you like. Name the sprite **target**.
+Use the **Circle** and **Line** tools, to create a target sprite at the centre of the canvas. You can fill the circle with any colour you like. Name the sprite **Target**.
 
 ![image of a drawn target](images/target.png)
 
@@ -48,7 +48,7 @@ Now you need to turn the video on to activate the computer's camera.
 
 --- task ---
 
-Add the following blocks: `green flag clicked`{:class="block3events"}, `set video transparency to`{:class="block3extensions"} `0`, `turn the video on`{:class="block3extensions"} and `set effect to`{:class="block3looks"} `80`:
+Add the following blocks: `green flag clicked`{:class="block3events"}, `set video transparency to`{:class="block3extensions"} `0`, `turn the video on`{:class="block3extensions"} and `set ghost effect to`{:class="block3looks"} `80`:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -64,7 +64,7 @@ set [ghost v] effect to [80]
 
 --- task ---
 
-Add a `forever`{:class="block3control"} loop to the bottom of your script, and within this place an `if then`{:class="block3control"} block.
+Add a `forever`{:class="block3control"} loop to the bottom of your script, and within this place an `if ... then`{:class="block3control"} block:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -81,7 +81,7 @@ set [ghost v] effect to [80]
 
 --- task ---
 
-The `if then`{:class="block3control"} block will detect when a certain colour touches the **target** sprite. Add in a `touching color`{:class="block3sensing"} block to the script.
+The `if ... then`{:class="block3control"} block will detect when a certain colour touches the **Target** sprite. Add in a `touching color`{:class="block3sensing"} block to the script:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -101,11 +101,11 @@ Click on the coloured oval within the `touching color`{:class="block3sensing"} b
 
 ![image showing the eye dropper tool](images/eye-dropper-tool.png)
 
-Now hold up one of you coloured pieces of paper in front of the camera, and use the **eye dropper** tool to select the colour of the paper.
+Now hold up one of your coloured pieces of paper in front of the camera, and use the **eye dropper** tool to select the colour of the paper.
 
 ![image showing the paper being held in front of the camera and the eye dropper tool being used to select the colour of the paper](images/select-colour.png)
 
-That colour should now be visible in the `touching color`{:class="block3sensing"} block.
+That colour should now be visible in the `touching color`{:class="block3sensing"} block:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -122,7 +122,7 @@ forever
 
 --- task ---
 
-Now add a `say for 2 seconds`{:class="block3looks"} adding in the text for the colour you selected.
+Now add a `say for 2 seconds`{:class="block3looks"} adding in the text for the colour you selected:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -154,8 +154,5 @@ Now click the `green flag`{:class="block3control"} and hold up the paper and wav
 
 --- /no-print ---
 --- /task ---
-
-
-
 
 --- save ---
