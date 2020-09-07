@@ -28,6 +28,10 @@ title: What you will need
 
 + Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
 
+### Materials
+
+Three coloured pieces of paper or three plain coloured flat objects.
+
 ### Downloads
 
 + Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
