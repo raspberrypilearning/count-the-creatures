@@ -48,7 +48,7 @@ Now you need to turn the video on to activate the computer's camera.
 
 --- task ---
 
-Add  the following blocks: `green flag clicked`{:class="block3events"}, `set video transparency to`{:class="block3extensions"} `0`, `turn the video on`{:class="block3extensions"} and `set effect to`{:class="block3looks"} `80`:
+Add the following blocks: `green flag clicked`{:class="block3events"}, `set video transparency to`{:class="block3extensions"} `0`, `turn the video on`{:class="block3extensions"} and `set effect to`{:class="block3looks"} `80`:
 
 ![image of target sprite](images/target-sprite.png)
 
