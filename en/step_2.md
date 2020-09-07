@@ -1,6 +1,6 @@
 ## Detecting colours
 
-In this step you will learn how to use the `video`{:class="block3extensions"} library to detect different colours on the screen.
+In this step you will learn how to use the `video`{:class="block3extensions"} library to detect different colours on the screen. Get your three different coloured plain pieces of paper or objects ready!
 
 --- task ---
 
