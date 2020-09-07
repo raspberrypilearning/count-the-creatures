@@ -18,11 +18,11 @@ Click on the **Costumes** tab and change the colour of the animal so that it mat
 
 --- task ---
 
-Now go back to your **target** sprite. In the `Events`{:class="block3events"} menu you can drag a `broadcast [message1 v]`{:class="block3events"} block and then create a new message
+Go back to your **target** sprite. In the `Events`{:class="block3events"} menu you can drag a `broadcast [message1 v]`{:class="block3events"} block and then create a new message
 
 ![image of the menu selection for a broadcast block](images/new-message.png)
 
-Call the message `red` or whatever the first colour of your paper was.
+Call the message `red` or whatever the first colour of your paper/object was.
 
 ![image showing the naming dialogue box, with red typed in](images/message-red.png)
 
@@ -30,7 +30,7 @@ Call the message `red` or whatever the first colour of your paper was.
 
 --- task ---
 
-Add the new `broadcast`{:class="block3events"} block into your script, so it occurs when the camera sees the colour red.
+Add the new `broadcast`{:class="block3events"} block into your script, so it occurs when the camera sees the colour red:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -56,7 +56,7 @@ end
 
 --- task ---
 
-Repeat this for the other colours.
+Repeat this for the other colours:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -91,7 +91,7 @@ Click back to you animal sprite. Position and size your animal so if fits nicely
 
 --- task ---
 
-Now add code so that the sprite moves across the screen, each time it receives the `red`{:class="block3events"} broadcast
+Add code so that the sprite moves across the screen, each time it receives the `red`{:class="block3events"} broadcast:
 
 ![image of the toucan sprite](images/animal-sprite.png)
 
