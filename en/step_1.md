@@ -30,7 +30,7 @@ title: What you will need
 
 ### Materials
 
-Three coloured pieces of paper or three plain coloured flat objects.
++ Three coloured pieces of paper or three plain coloured flat objects.
 
 ### Downloads
 
@@ -45,7 +45,7 @@ title: What you will learn
 
 + Use `broadcast`{:class="block3events"} blocks to communicate between sprites
 + Use the `video`{:class="block3extensions"} extension to detect colours
-+ Use the `or operator`{:class="block3operators"} to detect a range of colours
++ Use the `or`{:class="block3operators"} operator to detect a range of colours
 
 --- /collapse ---
 
