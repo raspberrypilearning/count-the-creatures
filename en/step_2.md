@@ -1,6 +1,6 @@
 ## Detecting colours
 
-In this step you will learn how to use the `video`{:class="block3extensions"} library to detect different colours on the screen. Get your three different coloured plain pieces of paper or objects ready!
+In this step you will learn how to use the `video`{:class="block3extensions"} extension to detect different colours on the screen. Get your three different coloured plain pieces of paper or objects ready!
 
 --- task ---
 
@@ -32,11 +32,11 @@ Use the **Circle** and **Line** tools, to create a target sprite at the centre o
 
 Click on the **Code** tab for your new sprite, and then the **Add Extension** button in the bottom left hand corner of the screen.
 
-![image showing add extension button](images/add-extension-block.png)
+![image showing add extension button](images/add-library-block.png)
 
 Select the **Video sensing** extension block.
 
-![image showing the graphic for the video sensing extension block](images/video-sensing-extension-block.png)
+![image showing the graphic for the video sensing extension block](images/video-sensing-library-block.png)
 
 If asked, **Allow** access to your webcam.
 
