@@ -8,7 +8,7 @@ In this project, you have:
 
 If you are following the [Keep it green] pathway of projects, then try out the project [blah].
 
-Another optional exercise is to create origami animals that represent the animals you are counting. You can find many different origami animals to create [here](http://rpf.io/origami).
+Another optional exercise is to create origami animals that represent the animals you are counting. You can find many different origami animals to create [here](http://rpf.io/origami){:target="_blank"}.
 
 --- no-print ---
 
