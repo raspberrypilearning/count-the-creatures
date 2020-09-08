@@ -134,7 +134,7 @@ Test your code still works, by clicking the `green flag`{:class="block3events"} 
 --- collapse ---
 ---
 
-Title: More colours with nesting blocks
+title: More colours with nesting blocks
 
 ---
 
