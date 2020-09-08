@@ -4,7 +4,7 @@ In this step, you will add code to make the camera detect more colours.
 
 --- task ---
 
-Right click on the `if then`{:class="block3control"} block and select **duplicate**, then add the new blocks to the bottom of your script. Repeat this a second time.
+Right click on the `if ... then`{:class="block3control"} block and select **duplicate**, then add the new blocks to the bottom of your script. Repeat this a second time:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -29,7 +29,7 @@ end
 
 --- task ---
 
-Just as you did before, use the colour picker to change the colours of these new blocks, with different colours of paper. Also change the text in the `say`{:class="block3looks"} block.
+Just as you did before, use the colour picker to change the colours of these new blocks, with different colours of paper. Also change the text in the `say`{:class="block3looks"} block:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -75,7 +75,7 @@ Depending on how the light in the room changes, the angle that you hold the pape
 
 --- task ---
 
-Add an `or`{:class="block3operators"} into the `touching color`{:class="block3sensing"} blocks.
+Add an `or`{:class="block3operators"} into the `touching color`{:class="block3sensing"} blocks:
 
 
 ![image of target sprite](images/target-sprite.png)
@@ -103,7 +103,7 @@ The `or`{:class="block3operators"} block will allow for another `touching color`
 
 --- task ---
 
-Add in three more `touching color`{:class="block3sensing"} blocks, and use the colour picker to select a different area on the paper, or change the lighting in your room a little and select the colours.
+Add in three more `touching color`{:class="block3sensing"} blocks, and use the colour picker to select a different area on the paper, or change the lighting in your room a little and select the colours:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -138,7 +138,7 @@ title: More colours with nesting blocks
 
 ---
 
-If you need to it is possible to nest `or`{:class="block3operators"} blocks inside each other, like this
+If you need to it is possible to nest `or`{:class="block3operators"} blocks inside each other, like this:
 
 ```blocks3
 <<<touching color [#62EF9A] ?> or <touching color [#A9E6A1] ?>> or <<touching color [#A2F090] ?> or <touching color [#69C6AF] ?>>>
