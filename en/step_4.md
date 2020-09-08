@@ -18,7 +18,7 @@ Click on the **Costumes** tab and change the colour of the animal so that it mat
 
 --- task ---
 
-Go back to your **target** sprite. In the `Events`{:class="block3events"} menu you can drag a `broadcast [message1 v]`{:class="block3events"} block and then create a new message
+Go back to your **Target** sprite. In the `Events`{:class="block3events"} menu you can drag a `broadcast [message1 v]`{:class="block3events"} block and then create a new message
 
 ![image of the menu selection for a broadcast block](images/new-message.png)
 
@@ -83,7 +83,7 @@ end
 
 --- task ---
 
-Click back to you animal sprite. Position and size your animal so if fits nicely on the left hand side of the **Stage**, below the **target** sprite.
+Click back to you animal sprite. Position and size your animal so if fits nicely on the left hand side of the **Stage**, below the **Target** sprite.
 
 ![image showing animal sprite on lower left hand side of the stage](images/sprite-on-stage.png)
 
