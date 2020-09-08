@@ -99,7 +99,7 @@ end
 
 --- /task ---
 
-The `or`{:class="block3operators"} block will allow for another `touching color`{:class="block3sensing"} block to be added into the `if then`{:class="block3control"}, so that more than one colour can be detected.
+The `or`{:class="block3operators"} block will allow for another `touching color`{:class="block3sensing"} block to be added into the `if ... then`{:class="block3control"}, so that more than one colour can be detected.
 
 --- task ---
 
@@ -134,11 +134,11 @@ Test your code still works, by clicking the `green flag`{:class="block3events"} 
 --- collapse ---
 ---
 
-title: More colours with nesting blocks
+Title: More colours with nesting blocks
 
 ---
 
-If you need to it is possible to nest `or`{:class="block3operators"} blocks inside each other, like this:
+Some creatures are multi-coloured. It is possible to nest `or`{:class="block3operators"} blocks inside each other, so the camera looks for a number of colours in one creature. To do this, use the following code:
 
 ```blocks3
 <<<touching color [#62EF9A] ?> or <touching color [#A9E6A1] ?>> or <<touching color [#A2F090] ?> or <touching color [#69C6AF] ?>>>
