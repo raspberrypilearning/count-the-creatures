@@ -4,7 +4,7 @@ In this step you will count the number of red birds that pass the target sprite,
 
 --- task ---
 
-Select your animal sprite, and then in the code tab, add the `Pen`{:class="block3extensions"} extension.
+Select your animal sprite, and then in the **Code tab**, add the `Pen`{:class="block3extensions"} extension.
 
 --- /task ---
 
