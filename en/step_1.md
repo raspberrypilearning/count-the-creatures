@@ -1,10 +1,12 @@
 ## Introduction
 
-In this project you will be creating a wildlife camera, that can count the number of birds, of different colours, that pass in front of the camera's view. 
+Computers can be used to study wildlife in areas where it is not practical to do this. And computers don't get bored! 
+
+In this project you will be creating a wildlife camera, that can count creatures, of different colours, that pass in front of the computer camera's view. You will be using different coloured paper or objects to represent different coloured birds.
 
 ### What you will make
 
-When the user passes a different coloured object (red, green or blue) past the centre of the screen, then the number of birds of each colour will increase.
+When the user passes a different coloured paper or object (red, green or blue) past the centre of the screen, a graphic bird of that colour will appear on the stage. The user can then count the number of graphic birds to know how many have passed the camera over time.
 
 --- no-print ---
 <div class="scratch-preview">
