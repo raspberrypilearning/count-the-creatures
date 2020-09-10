@@ -44,7 +44,7 @@ If asked, **Allow** access to your webcam.
 
 --- /task ---
 
-Now you need to turn the video on to activate the computer's camera.
+Now you need to turn the video on to activate the computer's camera. The video is not shared over the internet. It is just used locally on your computer.
 
 --- task ---
 
