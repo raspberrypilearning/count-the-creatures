@@ -22,7 +22,7 @@ Begin by deleting **Sprite1**. Then create a new sprite using the **Paint** tool
 
 --- task ---
 
-Use the **Circle** and **Line** tools, to create a target sprite at the centre of the canvas. You can fill the circle with any colour you like. Name the sprite **Target**.
+Use the **Circle** and **Line** tools, to create a  target at the centre of the canvas. Make it small. You can fill the circle with any colour you like. Name the sprite **Target**.
 
 ![image of a drawn target](images/target.png)
 
