@@ -103,7 +103,7 @@ The `or`{:class="block3operators"} block will allow for another `touching color`
 
 --- task ---
 
-Add in three more `touching color`{:class="block3sensing"} blocks, and use the colour picker to select a different area on the paper, or change the lighting in your room a little and select the colours:
+Add in three more `touching color`{:class="block3sensing"} blocks, and use the colour picker to select a different area on the paper. The colour recognition of your computer's camera will improve if you lighten the space you are working in. The camera may also get confused by similar colours in the room. For instance, the colour of your top, wall or chair. The below code allows for a slight variation of colours of red,  blue and green:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -116,7 +116,7 @@ forever
 +if <<touching color [#FF6E66] ?> or <touching color [#FF7E80] ?>> then
 say [red] for [2] secs
 end
-+if <<touching color [#00D6FF] ?> or <touching color [#00D6FF] ?>>  then
++if <<touching color [#5DDCF5] ?> or <touching color [#00D6FF] ?>>  then
 say [blue] for [2] secs
 end
 +if <<touching color [#62E09A] ?> or <touching color [#69E6A1] ?>> then
@@ -127,7 +127,7 @@ end
 
 --- task ---
 
-Test your code still works, by clicking the `green flag`{:class="block3events"} and holding up the paper in front of the camera
+Test your code still works by clicking the `green flag`{:class="block3events"} and holding up the paper in front of the camera.
 
 --- /task ---
 
