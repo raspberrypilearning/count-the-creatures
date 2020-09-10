@@ -1,10 +1,10 @@
 ## Counting colours
 
-In this step you will count the number of red birds that pass the target sprite, and represent this number on the stage.
+In this step, the sprite will stamp a copy of itself on the stage to represent how many birds of that colour have passed the **Target** sprite. You can then manually count the number of stamped red birds to know how many birds have passed.
 
 --- task ---
 
-Select your animal sprite, and then in the **Code tab**, add the `Pen`{:class="block3extensions"} extension.
+Select your animal sprite, and then in the **Code** tab, add the `Pen`{:class="block3extensions"} extension.
 
 --- /task ---
 
