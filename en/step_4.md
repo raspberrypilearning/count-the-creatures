@@ -104,7 +104,7 @@ change x by [10]
 
 --- task ---
 
-Hold up your paper so it touches the target and make sure your sprite moves across the screen.
+Hold up your paper so it touches the target. Test that the sprite moves across the screen when the colour is recognised.
 
 --- /task ---
 
