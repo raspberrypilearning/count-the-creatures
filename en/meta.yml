@@ -1,16 +1,16 @@
 title: Counting creatures
 hero_image: images/banner.png
-description: Create a wild life camera, that can count the number of birds, of different colours, that pass in front of the camera’s view.
+description: Create a wildlife camera that can count the number of birds of different colours that pass in front of the camera's view
 version: 4
 listed: false
 copyedit: false
 last_tested: "2020-08-24"
 steps:
   - title: Introduction
-  - title: Detecting colours
+  - title: Detect colours
   - title: More colours
-  - title: Broadcasting colours
-  - title: Counting colours
+  - title: Broadcast colours
+  - title: Count colours
   - title: More animals
   - title: Share your project
   - title: What next?
