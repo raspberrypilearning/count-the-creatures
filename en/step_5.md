@@ -1,6 +1,6 @@
 ## Counting colours
 
-In this step, the sprite will stamp a copy of itself on the stage to represent how many birds of that colour have passed the **Target** sprite. You can then manually count the number of stamped red birds to know how many birds have passed.
+In this step, the sprite will stamp a copy of itself on the stage. Each stamp will represent how many animals of that colour have passed the **Target** sprite. By counting the number of stamped animals on the screen you will know how many have passed the camera.
 
 --- task ---
 
