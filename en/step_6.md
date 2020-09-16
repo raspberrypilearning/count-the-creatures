@@ -1,10 +1,10 @@
 ## More animals
 
-In this step you will add more coloured animals to count.
+In this step, you will add more coloured animals to count.
 
 --- task ---
 
-Right click on your animal sprite, **duplicate** it, and then use the **Costumes** tab to re-colour the sprite.
+Right-click on your **Toucan** sprite, **duplicate** it, and then use the **Costumes** tab to recolour the sprite.
 
 --- print-only ---
 
@@ -22,7 +22,7 @@ Repeat this process so that you have three animal sprites that match the colours
 
 --- task ---
 
-Now you need to edit the code, so that each of the sprites has a unique starting position:
+Now, you need to edit the code, so that each of the sprites has a unique starting position:
 
 ![image of blue toucan sprite](images/blue-toucan.png)
 
@@ -72,7 +72,7 @@ hide
 
 --- task ---
 
-Test your code by holding up the paper in front of the camera, and making sure that the sprites advance and stamp each time.
+To test your code, hold up the paper in front of the camera, and make sure that the sprites advance and stamp each time.
 
 --- /task ---
 
