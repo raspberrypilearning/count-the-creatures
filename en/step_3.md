@@ -4,7 +4,7 @@ In this step, you will add code to make the camera detect more colours.
 
 --- task ---
 
-Right click on the `if ... then`{:class="block3control"} block and select **duplicate**, then add the new blocks to the bottom of your script. Repeat this a second time:
+Right-click on the `if ... then`{:class="block3control"} block and select **duplicate**, then add the new blocks to the bottom of your script. Repeat this a second time:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -29,7 +29,7 @@ end
 
 --- task ---
 
-Just as you did before, use the colour picker to change the colours of these new blocks, with different colours of paper. Also change the text in the `say`{:class="block3looks"} block:
+Just as you did before, use the **Colour picker** tool to change the colours of these new blocks, with paper of different colours. Also, change the text in the `say`{:class="block3looks"} block:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -54,7 +54,7 @@ end
 
 --- task ---
 
-Test out your code, by clicking the green flag and holding up the different colours of paper over the target.
+Test your code: click on the green flag and hold up the pieces of paper of different colours over the target.
 
 --- no-print ---
 
@@ -75,7 +75,7 @@ Depending on how the light in the room changes, the angle that you hold the pape
 
 --- task ---
 
-Add an `or`{:class="block3operators"} into the `touching color`{:class="block3sensing"} blocks:
+Add an `or`{:class="block3operators"} block into the `touching color`{:class="block3sensing"} blocks:
 
 
 ![image of target sprite](images/target-sprite.png)
@@ -99,11 +99,11 @@ end
 
 --- /task ---
 
-The `or`{:class="block3operators"} block will allow for another `touching color`{:class="block3sensing"} block to be added into the `if ... then`{:class="block3control"}, so that more than one colour can be detected.
+The `or`{:class="block3operators"} block will allow for another `touching color`{:class="block3sensing"} block to be added into the `if ... then`{:class="block3control"} block, so that more than one colour can be detected.
 
 --- task ---
 
-Add in three more `touching color`{:class="block3sensing"} blocks, and use the colour picker to select a different area on the paper. The colour recognition of your computer's camera will improve if you lighten the space you are working in. The camera may also get confused by similar colours in the room. For instance, the colour of your top, wall or chair. The below code allows for a slight variation of colours of red,  blue and green:
+Add in three more `touching color`{:class="block3sensing"} blocks, and use the **Colour picker** tool to select a different area on the paper. The colour recognition of your computer's camera will improve if you lighten the space that you are working in. The camera may also get confused by similar colours in the room, for example, the colour of your top, wall, or chair. The below code allows for a slight variation of colours of red, blue, and green:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -127,7 +127,7 @@ end
 
 --- task ---
 
-Test your code still works by clicking the `green flag`{:class="block3events"} and holding up the paper in front of the camera.
+To test that your code still works, click on the green flag and hold up the paper in front of the camera.
 
 --- /task ---
 
@@ -138,7 +138,7 @@ title: More colours with nesting blocks
 
 ---
 
-Some creatures are multi-coloured. It is possible to nest `or`{:class="block3operators"} blocks inside each other, so the camera looks for a number of colours in one creature. To do this, use the following code:
+Some creatures are multicoloured. It is possible to nest `or`{:class="block3operators"} blocks inside each other, so that the camera looks for a number of colours in one creature. To do this, use the following code:
 
 ```blocks3
 <<<touching color [#62EF9A] ?> or <touching color [#A9E6A1] ?>> or <<touching color [#A2F090] ?> or <touching color [#69C6AF] ?>>>
