@@ -1,6 +1,6 @@
-## Detecting colours
+## Detect colours
 
-In this step you will learn how to use the `video`{:class="block3extensions"} extension to detect different colours on the screen. Get your three different coloured plain pieces of paper or objects ready!
+In this step, you will learn how to use the `Video Sensing`{:class="block3extensions"} extension blocks to detect different colours on the screen. Get your three different-coloured plain pieces of paper or objects ready!
 
 --- task ---
 
@@ -14,7 +14,7 @@ Open a new Scratch project.
 
 --- task ---
 
-Begin by deleting **Sprite1**. Then create a new sprite using the **Paint** tool.
+First, delete **Sprite1**. Then, use the **Paint** tool to create a new sprite.
 
 ![image showing the new sprite paint tool being selected](images/paint-new-sprite.png)
 
@@ -22,7 +22,7 @@ Begin by deleting **Sprite1**. Then create a new sprite using the **Paint** tool
 
 --- task ---
 
-Use the **Circle** and **Line** tools, to create a  target at the centre of the canvas. Make it small. You can fill the circle with any colour you like. Name the sprite **Target**.
+Use the **Circle** and **Line** tools to create a target at the centre of the canvas. Make it small. You can fill the circle with any colour you like. Name the sprite `Target`.
 
 ![image of a drawn target](images/target.png)
 
@@ -30,11 +30,11 @@ Use the **Circle** and **Line** tools, to create a  target at the centre of the 
 
 --- task ---
 
-Click on the **Code** tab for your new sprite, and then the **Add Extension** button in the bottom left-hand corner of the screen.
+Click on the **Code** tab for your new **Target** sprite, and then click the **Add Extension** button in the bottom left-hand corner of the screen.
 
 ![image showing add extension button](images/add-library-block.png)
 
-Select the **Video sensing** extension block.
+Select the **Video Sensing** extension.
 
 ![image showing the graphic for the video sensing extension block](images/video-sensing-library-block.png)
 
@@ -44,11 +44,11 @@ If asked, **Allow** access to your webcam.
 
 --- /task ---
 
-Now you need to turn the video on to activate the computer's camera. The video is not shared over the internet. It is just used locally on your computer.
+Now, you need to turn the video on to activate the computer's camera. The video is not shared over the internet. It is just used locally on your computer.
 
 --- task ---
 
-Add the following blocks: `green flag clicked`{:class="block3events"}, `set video transparency to`{:class="block3extensions"} `0`, `turn the video on`{:class="block3extensions"} and `set ghost effect to`{:class="block3looks"} `80`:
+Add the following blocks: `when green flag clicked`{:class="block3events"}, `set video transparency to`{:class="block3extensions"} `0`, `turn video on`{:class="block3extensions"}, and `set ghost effect to`{:class="block3looks"} `80`:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -62,7 +62,7 @@ set [ghost v] effect to [80]
 
 --- task ---
 
-Add a `forever`{:class="block3control"} loop to the bottom of your script, and within this place an `if ... then`{:class="block3control"} block:
+Add a `forever`{:class="block3control"} loop to the bottom of your script, and within this, place an `if ... then`{:class="block3control"} block:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -95,11 +95,11 @@ forever
 
 --- task ---
 
-Click on the coloured oval within the `touching color`{:class="block3sensing"} block, and then select the **eye dropper** tool which you will find below the three colour sliders. 
+Click on the coloured oval within the `touching color`{:class="block3sensing"} block, and then select the **Colour picker** tool, which you will find below the three colour sliders. 
 
 ![image showing the eye dropper tool](images/eye-dropper-tool.png)
 
-Now hold up one of your coloured pieces of paper in front of the camera, and use the **eye dropper** tool to select the colour of the paper. The example uses red paper but remember you can use paper or objects and any colours you like.
+Now, hold up one of your coloured pieces of paper in front of the camera, and use the **Colour picker** tool to select the colour of the paper. The example uses red paper, but you can use paper or objects of any colours you like.
 
 ![image showing the paper being held in front of the camera and the eye dropper tool being used to select the colour of the paper](images/select-colour.png)
 
@@ -120,7 +120,7 @@ forever
 
 --- task ---
 
-Add a `say for 2 seconds`{:class="block3looks"} adding in the text for the colour you selected:
+Add a `say for 2 seconds`{:class="block3looks"} block and add in the text for the colour that you selected:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -138,7 +138,7 @@ say [red] for [2] secs
 
 --- task ---
 
-Click the `green flag`{:class="block3control"} and hold up the paper and wave it over the target a few times, and it should say `red`{:class="block3looks"}.
+Click on the green flag. Hold up the paper and wave it over the target a few times, and it should say, "red".
 
 --- print-only ---
 
