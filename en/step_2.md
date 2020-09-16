@@ -30,7 +30,7 @@ Use the **Circle** and **Line** tools, to create a  target at the centre of the 
 
 --- task ---
 
-Click on the **Code** tab for your new sprite, and then the **Add Extension** button in the bottom left hand corner of the screen.
+Click on the **Code** tab for your new sprite, and then the **Add Extension** button in the bottom left-hand corner of the screen.
 
 ![image showing add extension button](images/add-library-block.png)
 
