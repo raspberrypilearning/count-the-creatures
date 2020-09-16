@@ -1,10 +1,10 @@
-## Broadcasting colours
+## Broadcast colours
 
-In this step you will use `broadcasts`{:class="block3events"} to send messages about colour from the **Target** sprite to the other sprites.
+In this step, you will use `broadcasts`{:class="block3events"} to send messages about colour from the **Target** sprite to the other sprites.
 
 --- task ---
 
-Import a new animal sprite into your project. You can choose any sprite you like, but in this example a **Toucan** will be used.
+Import a new animal sprite into your project. You can choose any sprite you like, but in this example, we will use a **Toucan** sprite.
 
 --- /task ---
 
@@ -18,11 +18,11 @@ Click on the **Costumes** tab and change the colour of the animal so that it mat
 
 --- task ---
 
-Go back to your **Target** sprite. In the `Events`{:class="block3events"} menu you can drag a `broadcast [message1 v]`{:class="block3events"} block and then create a new message
+Go back to your **Target** sprite. In the `Events`{:class="block3events"} blocks menu, you can drag a `broadcast message1`{:class="block3events"} block and then create a **New message**.
 
 ![image of the menu selection for a broadcast block](images/new-message.png)
 
-Call the message `red` or whatever the first colour of your paper was.
+Call the message `red` (or whatever the first colour of your paper was).
 
 ![image showing the naming dialogue box, with red typed in](images/message-red.png)
 
@@ -30,7 +30,7 @@ Call the message `red` or whatever the first colour of your paper was.
 
 --- task ---
 
-Add the new `broadcast`{:class="block3events"} block into your script, so it occurs when the camera sees the colour red:
+Add the new `broadcast`{:class="block3events"} block into your script, so that it occurs when the camera sees the colour red:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -83,7 +83,7 @@ end
 
 --- task ---
 
-Click back to your animal sprite. Position and size your animal so if fits nicely on the left hand side of the **Stage**, below the **Target** sprite.
+Click back to your animal sprite. Position and size your animal so that it fits nicely on the left-hand side of the Stage, below the **Target** sprite.
 
 ![image showing animal sprite on lower left hand side of the stage](images/sprite-on-stage.png)
 
@@ -104,7 +104,7 @@ change x by [10]
 
 --- task ---
 
-Hold up your paper so it touches the target. Test that the sprite moves across the screen when the colour is recognised.
+Hold up your paper so that it touches the target. Test that the sprite moves across the screen when the colour is recognised.
 
 --- /task ---
 
