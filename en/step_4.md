@@ -1,6 +1,6 @@
 ## Broadcasting colours
 
-In this step you will use `broadcasts`{:class="block3events"} so that when a colour is detected it has an affect on another sprite.
+In this step you will use `broadcasts`{:class="block3events"} to send messages about colour from the **Target** sprite to the other sprites.
 
 --- task ---
 
@@ -83,7 +83,7 @@ end
 
 --- task ---
 
-Click back to you animal sprite. Position and size your animal so if fits nicely on the left hand side of the **Stage**, below the **Target** sprite.
+Click back to your animal sprite. Position and size your animal so if fits nicely on the left hand side of the **Stage**, below the **Target** sprite.
 
 ![image showing animal sprite on lower left hand side of the stage](images/sprite-on-stage.png)
 
