@@ -99,7 +99,7 @@ Click on the coloured oval within the `touching color`{:class="block3sensing"} b
 
 ![image showing the eye dropper tool](images/eye-dropper-tool.png)
 
-Now, hold up one of your coloured pieces of paper in front of the camera, and use the **Colour picker** tool to select the colour of the paper. The example uses red paper, but you can use paper or objects of any colours you like.
+Now, hold up one of your coloured pieces of paper in front of the camera, and use the **Colour picker** tool to select the colour of the paper. In this example, we will use red paper, but you can use paper or objects of any colours you like.
 
 ![image showing the paper being held in front of the camera and the eye dropper tool being used to select the colour of the paper](images/select-colour.png)
 
@@ -120,7 +120,7 @@ forever
 
 --- task ---
 
-Add a `say for 2 seconds`{:class="block3looks"} block and write in the name of the colour that you selected:
+Add a `say for 2 seconds`{:class="block3looks"} block and write in `red` (or the colour that you selected):
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -138,7 +138,7 @@ say [red] for [2] secs
 
 --- task ---
 
-Click on the green flag. Hold up the paper and wave it over the target a few times, and it should say, "red".
+Click on the green flag. Hold up the paper or object and wave it over the target a few times, and it should say, "red" (or the colour that you selected).
 
 --- print-only ---
 
