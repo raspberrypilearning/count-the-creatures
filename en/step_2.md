@@ -14,7 +14,7 @@ Open a new Scratch project.
 
 --- task ---
 
-First, delete **Sprite1**. Then, use the **Paint** tool to create a new sprite.
+First, delete the **Sprite1** sprite. Then, use the **Paint** tool to create a new sprite.
 
 ![image showing the new sprite paint tool being selected](images/paint-new-sprite.png)
 
@@ -62,7 +62,7 @@ set [ghost v] effect to [80]
 
 --- task ---
 
-Add a `forever`{:class="block3control"} loop to the bottom of your script, and within this, place an `if ... then`{:class="block3control"} block:
+Add a `forever`{:class="block3control"} loop to the bottom of your script, and within that loop, place an `if ... then`{:class="block3control"} block:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -79,7 +79,7 @@ set [ghost v] effect to [80]
 
 --- task ---
 
-The `if ... then`{:class="block3control"} block will detect when a certain colour touches the **Target** sprite. Add in a `touching color`{:class="block3sensing"} block to the script:
+The `if ... then`{:class="block3control"} block will detect when a certain colour touches the **Target** sprite. Add a `touching color`{:class="block3sensing"} block into the script:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -120,7 +120,7 @@ forever
 
 --- task ---
 
-Add a `say for 2 seconds`{:class="block3looks"} block and add in the text for the colour that you selected:
+Add a `say for 2 seconds`{:class="block3looks"} block and write in the name of the colour that you selected:
 
 ![image of target sprite](images/target-sprite.png)
 
