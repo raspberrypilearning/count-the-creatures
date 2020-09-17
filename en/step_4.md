@@ -30,7 +30,7 @@ Call the message `red` (or whatever the colour of your first piece of paper or o
 
 --- task ---
 
-Add the new `broadcast red`{:class="block3events"} block into your script, so that it occurs when the camera sees the colour red:
+Add the new `broadcast red`{:class="block3events"} block into your script, so that it occurs when the camera sees the colour red (or the colour of your first object — remember to use the `broadcast`{:class="block3events"} block that shows the message that you just created!):
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -91,7 +91,7 @@ Click back to your **Toucan** sprite (or the animal sprite that you chose earlie
 
 --- task ---
 
-Add code so that the sprite moves across the Stage, each time it receives the `red`{:class="block3events"} broadcast:
+Add code so that the **Toucan** sprite moves across the Stage, each time it receives the `red`{:class="block3events"} broadcast:
 
 ![image of the toucan sprite](images/animal-sprite.png)
 
@@ -100,11 +100,13 @@ when I receive [red v]
 change x by [10]
 ```
 
+**Note:** If you have used a different animal sprite, make sure that you add code to your animal sprite instead. If you have used a different colour, make sure that you use the `broadcast`{:class="block3events"} block that shows the colour of your choice.
+
 --- /task ---
 
 --- task ---
 
-Hold up your paper so that it touches the target. Test that the sprite moves across the Stage when the colour is recognised.
+Hold up your paper so that it touches the target. Test that the **Toucan** sprite (or animal sprite) moves across the Stage when the colour is recognised.
 
 --- /task ---
 
