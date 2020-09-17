@@ -83,7 +83,7 @@ end
 
 --- task ---
 
-Click back to your **animal** sprite (in this example, the **Toucan** sprite). Position and size your **animal** sprite so that it fits nicely on the left-hand side of the Stage, below the **Target** sprite.
+Click back to your **Toucan** sprite (or the animal sprite that you chose earlier). Position and size your **Toucan** sprite so that it fits nicely on the left-hand side of the Stage, below the **Target** sprite.
 
 ![image showing animal sprite on lower left hand side of the stage](images/sprite-on-stage.png)
 
