@@ -4,7 +4,7 @@ In this step, you will add more coloured animals to count.
 
 --- task ---
 
-Right-click on your **Toucan** sprite, **duplicate** it, and then use the **Costumes** tab to recolour the sprite.
+Right-click on your **Toucan** sprite (or animal sprite of your choice), **duplicate** it, and then go to the **Costumes** tab to recolour the sprite.
 
 --- print-only ---
 
@@ -43,11 +43,11 @@ go to x: [-200] y: [-150]
 ```
 --- /task ---
 
-If you were to test your script at the moment, then a single colour would cause all the sprites to move and stamp. You need to use the different colour broadcasts in your code.
+If you were to test your script at the moment, then a single colour would cause all the sprites to move and stamp. You need to use the `broadcast`{:class="block3events"} blocks for the different colours in your code.
 
 --- task ---
 
-Change the broadcast trigger for each of the new sprites:
+Change the broadcast trigger (currently set to `red`{:class="block3events"}, or the colour of your first piece of paper or object) for each of the new sprites:
 
 ![image of blue toucan sprite](images/blue-toucan.png)
 
@@ -72,7 +72,7 @@ hide
 
 --- task ---
 
-To test your code, hold up the paper in front of the camera, and make sure that the sprites advance and stamp each time.
+To test your code, hold up the pieces of paper or objects in front of the camera, one at a time, and make sure that the correct sprites advance and create a stamp each time.
 
 --- /task ---
 
