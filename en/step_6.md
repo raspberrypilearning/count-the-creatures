@@ -16,7 +16,7 @@ Right-click on your **Toucan** sprite, **duplicate** it, and then use the **Cost
 
 --- task ---
 
-Repeat this process so that you have three animal sprites that match the colours of your paper. The code will also be duplicated for each sprite.
+Repeat this process so that you have three animal sprites that match the colours of your paper or objects. The code will also be duplicated for each sprite.
 
 --- /task ---
 
