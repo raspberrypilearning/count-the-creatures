@@ -32,11 +32,16 @@ Use the **Circle** and **Line** tools to create a target at the centre of the ca
 
 Click on the **Code** tab for your new **Target** sprite, and then click the **Add Extension** button in the bottom left-hand corner of the screen.
 
-![image showing add extension button](images/add-library-block.png)
-
 Select the **Video Sensing** extension.
 
+![gif showing the extension button](images/add-video-extension.gif)
+
+--- print ---
+![image showing add extension button](images/add-library-block.png)
+
 ![image showing the graphic for the video sensing extension block](images/video-sensing-library-block.png)
+
+--- /print ---
 
 If asked, **Allow** access to your webcam.
 
