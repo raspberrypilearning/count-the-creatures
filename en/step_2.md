@@ -34,14 +34,19 @@ Click on the **Code** tab for your new **Target** sprite, and then click the **A
 
 Select the **Video Sensing** extension.
 
+--- no-print ---
+
 ![gif showing the extension button](images/add-video-extension.gif)
 
---- print ---
+--- /no-print ---
+
+--- print-only ---
+
 ![image showing add extension button](images/add-library-block.png)
 
 ![image showing the graphic for the video sensing extension block](images/video-sensing-library-block.png)
 
---- /print ---
+--- /print-only ---
 
 If asked, **Allow** access to your webcam.
 
