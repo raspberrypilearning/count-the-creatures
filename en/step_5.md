@@ -1,6 +1,8 @@
 ## Count colours
 
-In this step, the sprite will stamp a copy of itself on the Stage. Each stamp will represent how many animals of that colour have passed the **Target** sprite. This means that you will be able to count the number of stamped animals on the Stage to find out how many have passed the camera.
+In this step, the **Toucan** sprite (or animal sprite of your choice) will stamp a copy of itself on the Stage. Each stamp will represent how many animals of that colour have passed the Target sprite. This means that you will be able to count the number of stamped animals on the Stage to find out how many have passed the camera.
+
+Remember: if you have used a different animal sprite, you can follow the instructions below to add code to your animal sprite.
 
 --- task ---
 
@@ -56,7 +58,7 @@ To finish off, the Stage needs to be reset each time the green flag is clicked o
 
 --- task ---
 
-Add the following script to the **Toucan** sprite, to reset the **Toucan** sprite’s position and clear the Stage of the stamps:
+Add the following script to the **Toucan** sprite, to reset the **Toucan** sprite's position and clear the Stage of the stamps:
 
 ![image of the toucan sprite](images/animal-sprite.png)
 
