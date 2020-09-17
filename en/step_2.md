@@ -42,9 +42,9 @@ Select the **Video Sensing** extension.
 
 --- print-only ---
 
-![image showing add extension button](images/add-library-block.png)
+![image showing add extension button](images/add-extension.png)
 
-![image showing the graphic for the video sensing extension block](images/video-sensing-library-block.png)
+![image showing the graphic for the video sensing extension block](images/video-sensing-library.png)
 
 --- /print-only ---
 
