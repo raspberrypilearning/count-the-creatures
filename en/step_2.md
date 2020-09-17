@@ -107,6 +107,12 @@ forever
 
 Click on the coloured oval within the `touching color`{:class="block3sensing"} block, and then select the **Colour picker** tool, which you will find below the three colour sliders. 
 
+--- no-print ---
+
+![image showing the eye dropper tool](images/colour-picker.gif)
+
+--- /no-print ---
+
 ![image showing the eye dropper tool](images/eye-dropper-tool.png)
 
 Now, hold up one of your coloured pieces of paper in front of the camera, and use the **Colour picker** tool to select the colour of the paper. In this example, we will use red paper, but you can use paper or objects of any colours you like.
