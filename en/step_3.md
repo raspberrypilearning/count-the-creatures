@@ -4,7 +4,7 @@ In this step, you will add code to make the camera detect more colours.
 
 --- task ---
 
-Right-click on the `if ... then`{:class="block3control"} block and select **duplicate**, then add the new blocks to the bottom of your script. Do this twice:
+Right-click on the `if ... then`{:class="block3control"} block and select **duplicate**, then add the new blocks into the `forever`{:class="block3control"} loop. Do this twice:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -29,7 +29,7 @@ end
 
 --- task ---
 
-Just as you did before, use the **Colour picker** tool to change the colours of these new blocks, with paper or objects of different colours. Also, change the text in the `say`{:class="block3looks"} block:
+Just as you did before, use the **Colour picker** tool to change the colours of these new blocks, with paper or objects of different colours. Also, change the text in the `say`{:class="block3looks"} blocks:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -75,7 +75,7 @@ Depending on how the light in the room changes, the angle that you hold the pape
 
 --- task ---
 
-Add an `or`{:class="block3operators"} block into the `touching color`{:class="block3sensing"} blocks:
+Add an `or`{:class="block3operators"} block into the  `if ... then`{:class="block3control"} blocks, and add in the `touching color`{:class="block3sensing"} blocks:
 
 
 ![image of target sprite](images/target-sprite.png)
@@ -103,7 +103,11 @@ The `or`{:class="block3operators"} block will allow for another `touching color`
 
 --- task ---
 
-Add in three more `touching color`{:class="block3sensing"} blocks, and use the **Colour picker** tool to select a different area on the paper or object. The colour recognition of your computer's camera will improve if you lighten the space that you are working in. The camera may also get confused by similar colours in the room, for example, the colour of your top, wall, or chair. The below code allows for a slight variation of colours of red, blue, and green:
+Add in three more `touching color`{:class="block3sensing"} blocks, and use the **Colour picker** tool to select a different area on the paper or object. 
+
+**Note:** The colour recognition of your computer's camera will improve if you lighten the space that you are working in. The camera may also get confused by similar colours in the room, for example, the colour of your top, wall, or chair. 
+
+The below code allows for a slight variation of colours of red, blue, and green:
 
 ![image of target sprite](images/target-sprite.png)
 
@@ -127,7 +131,7 @@ end
 
 --- task ---
 
-To test that your code works, click on the green flag and hold up the paper or object in front of the camera.
+To test that your code works, click on the green flag and hold up the pieces of paper or objects in front of the camera.
 
 --- /task ---
 
