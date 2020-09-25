@@ -9,9 +9,7 @@ In this project, you will create a wildlife camera that can count creatures of d
 When the user shows a different-coloured piece of paper or object (red, green, or blue) past the centre of the screen, a graphic bird of that colour will appear on the Stage. The user can then count the number of graphic birds to know how many have passed the camera over time.
 
 --- no-print ---
-<div class="scratch-preview">
-<iframe src="https://scratch.mit.edu/projects/422092630/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
+![gif showing coloured paper being recognised by the program](images/showcase.gif)
 --- /no-print ---
 
 --- print-only ---

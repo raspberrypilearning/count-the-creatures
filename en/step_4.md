@@ -91,7 +91,7 @@ Click back to your **Toucan** sprite (or the animal sprite that you chose earlie
 
 --- task ---
 
-Add code so that the **Toucan** sprite moves across the Stage, each time it receives the `red`{:class="block3events"} broadcast:
+Add code so that the **Toucan** sprite moves across the Stage each time it receives the `red`{:class="block3events"} broadcast:
 
 ![image of the toucan sprite](images/animal-sprite.png)
 
