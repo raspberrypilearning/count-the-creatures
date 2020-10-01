@@ -45,7 +45,7 @@ title: What you will learn
 
 + How to use `broadcast`{:class="block3events"} blocks to communicate between sprites
 + How to use the `Video Sensing`{:class="block3extensions"} extension blocks to detect colours
-+ How to use the `or`{:class="block3operators"} operator to detect a range of colours
++ How to detect and visualise wildlife
 
 --- /collapse ---
 
