@@ -45,7 +45,7 @@ title: What you will learn
 
 + How to use `broadcast`{:class="block3events"} blocks to communicate between sprites
 + How to use the `Video Sensing`{:class="block3extensions"} extension blocks to detect colours
-+ How to use the `or`{:class="block3operators"} operator to detect a range of colours
++ How to detect and visualise wildlife
 
 --- /collapse ---
 
@@ -54,8 +54,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can [download the completed project here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
+You can [download the completed project here](http://rpf.io/p/en/count-the-creatures){:target="_blank"}.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/count-the-creatures/print){:target="_blank"}.
 
 --- /collapse ---
