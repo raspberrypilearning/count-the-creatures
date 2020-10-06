@@ -32,10 +32,6 @@ title: What you will need
 
 + Three coloured pieces of paper or three plain-coloured flat objects
 
-### Downloads
-
-+ If you are working offline, download the [project starter file](http://rpf.io/p/en/projectName-go){:target="_blank"}
-
 --- /collapse ---
 
 --- collapse ---
