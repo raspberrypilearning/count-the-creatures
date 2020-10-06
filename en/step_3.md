@@ -64,7 +64,7 @@ Test your code: click on the green flag and hold up the pieces of paper or objec
 
 --- print-only ---
 
-![image showing the camera detecting the colour green](images/three-colour-detection.gif)
+![image showing the camera detecting the colour green](images/three-colour-detection.png)
 
 --- /print-only ---
 
