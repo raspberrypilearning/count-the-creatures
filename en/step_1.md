@@ -32,10 +32,6 @@ title: What you will need
 
 + Three coloured pieces of paper or three plain-coloured flat objects
 
-### Downloads
-
-+ If you are working offline, download the [project starter file](http://rpf.io/p/en/projectName-go){:target="_blank"}
-
 --- /collapse ---
 
 --- collapse ---
@@ -56,6 +52,6 @@ title: Additional information for educators
 
 You can [download the completed project here](http://rpf.io/p/en/count-the-creatures){:target="_blank"}.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/count-the-creatures/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/p/en/projects/count-the-creatures-get/print){:target="_blank"}.
 
 --- /collapse ---
