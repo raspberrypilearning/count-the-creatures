@@ -50,8 +50,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can [download the completed project here](http://rpf.io/p/en/count-the-creatures){:target="_blank"}.
+You can [download the completed project here](http://rpf.io/p/en/count-the-creatures-get){:target="_blank"}.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/p/en/projects/count-the-creatures-get/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/p/en/projects/count-the-creatures/print){:target="_blank"}.
 
 --- /collapse ---
