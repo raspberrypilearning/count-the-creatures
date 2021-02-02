@@ -2,7 +2,7 @@ title: Count the creatures
 hero_image: images/banner.png
 description: Create a wildlife camera that can count the number of animals of different colours that pass in front of the camera
 version: 4
-listed: false
+listed: true
 copyedit: false
 last_tested: "2020-08-24"
 steps:
