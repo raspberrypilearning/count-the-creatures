@@ -9,12 +9,14 @@ copyedit: false
 last_tested: '2020-08-24'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Detect colours
 - title: More colours
+  completion:
+  - engaged
 - title: Broadcast colours
 - title: Count colours
 - title: More animals
-  completion: internal
+  completion:
+  - internal
 - title: Share your project
 - title: What next?
