@@ -1,6 +1,6 @@
 ## More colours
 
-In this step, you will add code to make the camera detect more colours.
+Make the camera detect more colours!
 
 --- task ---
 
@@ -98,8 +98,6 @@ end
 ``` 
 
 --- /task ---
-
-The `or`{:class="block3operators"} block will allow for another `touching color`{:class="block3sensing"} block to be added into the `if ... then`{:class="block3control"} block, so that more than one colour can be detected.
 
 --- task ---
 

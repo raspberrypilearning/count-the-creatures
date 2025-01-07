@@ -16,13 +16,11 @@ When the user shows a different-coloured piece of paper or object (red, green, o
 ![Complete project](images/showcase_static.png)
 --- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
+### You will need
+
 ### Hardware
 
-+ A computer or tablet capable of running Scratch 3, with a webcam
++ A computer or tablet with a webcam
 
 ### Software
 
@@ -30,28 +28,6 @@ title: What you will need
 
 ### Materials
 
-+ Three coloured pieces of paper or three plain-coloured flat objects
++ Three coloured pieces of paper or three plain-coloured objects
 
---- /collapse ---
 
---- collapse ---
----
-title: What you will learn
----
-
-+ How to use `broadcast`{:class="block3events"} blocks to communicate between sprites
-+ How to use the `Video Sensing`{:class="block3extensions"} extension blocks to detect colours
-+ How to detect and visualise wildlife
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can [download the completed project here](https://rpf.io/p/en/count-the-creatures-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/count-the-creatures/print){:target="_blank"}.
-
---- /collapse ---

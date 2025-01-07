@@ -15,8 +15,10 @@ steps:
   - engaged
 - title: Broadcast colours
 - title: Count colours
-- title: More animals
   completion:
   - internal
+- title: More animals
+  completion:
+  - external
 - title: Share your project
-- title: What next?
+- title: What can you do now?

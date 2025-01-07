@@ -1,14 +1,8 @@
-## What next?
+## What can you do now?
 
-In this project, you have:
+If you have been following the [Protect our planet](https://projects.raspberrypi.org/en/pathways/protect-our-planet)(http://rpf.io/origami){:target="_blank"} pathway, then try out the project [Electricity generation](https://projects.raspberrypi.org/en/projects/electricity-generation)(http://rpf.io/origami){:target="_blank"}.
 
-+ Used `broadcast`{:class="block3events"} blocks to communicate colour changes and movement between sprites and used the `or`{:class="block3operators"} operator block to aid colour identification
-+ Used the `Video Sensing`{:class="block3extensions"} extension blocks to detect colours in real-world objects
-+ Used the video camera to detect coloured birds and count them using `stamps`{:class="block3extensions"} on the Stage
-
-If you have been following the [Protect our planet](https://projects.raspberrypi.org/en/pathways/protect-our-planet) pathway, then try out the project [Electricity generation](https://projects.raspberrypi.org/en/projects/electricity-generation).
-
-You could also create origami animals that represent the animals that you are counting. You can [find many different origami animals to create here](http://rpf.io/origami){:target="_blank"}.
+You could also create coloured origami animals that represent the animals that you are counting. You can [find many different origami animals to create here](http://rpf.io/origami){:target="_blank"}.
 
 --- no-print ---
 
@@ -16,4 +10,3 @@ You could also create origami animals that represent the animals that you are co
 
 --- /no-print ---
 
-Did you enjoy the project? Have you spotted a mistake? Please click the **Send feedback** button below and let us know!
