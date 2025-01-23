@@ -1,10 +1,10 @@
 ## More animals
 
-In this step, you will add more coloured animals to count.
+Add more coloured animals to count!
 
 --- task ---
 
-Right-click on your **Toucan** sprite (or animal sprite of your choice), **duplicate** it, and then go to the **Costumes** tab to recolour the sprite.
+Right-click on your **Toucan** sprite (or animal sprite of your choice), **duplicate** it, and then go to the **Costumes** tab to recolour the sprite, or give it a completely new costume.
 
 --- print-only ---
 
@@ -22,7 +22,7 @@ Repeat this process so that you have three animal sprites that match the colours
 
 --- task ---
 
-Now, you need to edit the code, so that each of the sprites has a unique starting position:
+Edit the code so that each of the sprites has a unique starting position:
 
 ![image of blue toucan sprite](images/blue-toucan.png)
 
@@ -43,7 +43,7 @@ go to x: [-200] y: [-150]
 ```
 --- /task ---
 
-If you were to test your script at the moment, then a single colour would cause all the sprites to move and stamp. You need to use the `broadcast`{:class="block3events"} blocks for the different colours in your code.
+Now, you need to change the `broadcast`{:class="block3events"} blocks to match the different colours in your code.
 
 --- task ---
 
@@ -72,7 +72,9 @@ hide
 
 --- task ---
 
-To test your code, hold up the pieces of paper or objects in front of the camera, one at a time, and make sure that the correct sprites advance and create a stamp each time.
+Test your code.
+
+Hold up the pieces of paper or objects in front of the camera, one at a time, and make sure that the correct sprites advance and create a stamp each time.
 
 --- /task ---
 

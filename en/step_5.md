@@ -1,12 +1,12 @@
 ## Count colours
 
-In this step, the **Toucan** sprite (or animal sprite of your choice) will stamp a copy of itself on the Stage. Each stamp will represent an animal of that colour that has passed the **Target** sprite. This means that you will be able to count the number of stamped animals on the Stage to find out how many have passed the camera.
-
-Remember: if you have used a different animal sprite, you can follow the instructions below to add code to your animal sprite.
+Get your chosen animal sprite to stamp a copy of itself on the Stage each time it passes the Target. Use these stamps to track how many animals of that colour have crossed the camera.
 
 --- task ---
 
-Select your **Toucan** sprite, and then in the **Code** tab, add the `Pen`{:class="block3extensions"} extension.
+Select your animal sprite, and then in the **Code** tab, add the `Pen`{:class="block3extensions"} extension. In this example we will use the **Toucan** sprite.
+
+![A pen icon emitting a rainbow trail, accompanied by the title 'Pen' and the text 'Draw with your sprites' on a green background.](images/pen-extension.png)
 
 --- /task ---
 
@@ -54,7 +54,6 @@ Click on the green flag and test how the **Toucan** sprite moves and creates sta
 --- /task ---
 
 To finish off, the Stage needs to be reset each time the green flag is clicked on.
-
 
 --- task ---
 

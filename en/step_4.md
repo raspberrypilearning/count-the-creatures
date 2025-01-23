@@ -1,10 +1,12 @@
 ## Broadcast colours
 
-In this step, you will use `broadcast`{:class="block3events"} blocks to send messages about colour from the **Target** sprite to the other sprites.
+Use `broadcast`{:class="block3events"} blocks to send messages about colour from the **Target** sprite to the other sprites.
 
 --- task ---
 
 Import a new animal sprite into your project. You can choose any sprite you like, but in this example, we will use a **Toucan** sprite.
+
+![An illustration of a toucan with a large orange and black beak, standing on a light background, with the label 'Toucan' underneath.](images/toucan.png)
 
 --- /task ---
 
@@ -12,7 +14,7 @@ Import a new animal sprite into your project. You can choose any sprite you like
 
 Click on the **Costumes** tab and change the colour of the animal so that it matches one of the colours of your paper or objects.
 
-![image of the toucan sprite](images/animal-sprite.png)
+![image of the toucan sprite, now coloured red.](images/animal-sprite.png)
 
 --- /task ---
 
@@ -83,7 +85,7 @@ end
 
 --- task ---
 
-Click back to your **Toucan** sprite (or the animal sprite that you chose earlier). Position and size your **Toucan** sprite so that it fits nicely on the left-hand side of the Stage, below the **Target** sprite.
+Click back to your **Toucan** sprite (or the animal sprite that you chose earlier). Position and size your sprite so that it fits nicely on the left-hand side of the Stage, below the **Target** sprite.
 
 ![image showing animal sprite on lower left hand side of the stage](images/sprite-on-stage.png)
 
@@ -91,7 +93,7 @@ Click back to your **Toucan** sprite (or the animal sprite that you chose earlie
 
 --- task ---
 
-Add code so that the **Toucan** sprite moves across the Stage each time it receives the `red`{:class="block3events"} broadcast:
+Add code so that the sprite moves across the Stage each time it receives the `red`{:class="block3events"} broadcast:
 
 ![image of the toucan sprite](images/animal-sprite.png)
 
