@@ -18,7 +18,7 @@ steps:
   completion:
   - internal
 - title: More animals
-- title: Share your project
+- title: Challenge
 - title: What can you do now?
   completion:
   - external

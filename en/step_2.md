@@ -53,8 +53,7 @@ If asked, **Allow** access to your webcam.
 Now, you need to turn the video on to activate the computer's camera. The video is not shared over the internet. It is just used locally on your computer.
 
 --- task ---
-
-Add the following blocks: `when green flag clicked`{:class="block3events"}, `set video transparency to`{:class="block3extensions"} `0`, `turn video on`{:class="block3extensions"}, and `set ghost effect to`{:class="block3looks"} `80`:
+Add the follwoing code to your target sprite:
 
 ![image of target sprite](images/target-sprite.png)
 
