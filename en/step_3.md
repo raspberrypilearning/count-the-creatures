@@ -103,7 +103,7 @@ end
 
 Add in three more `touching color`{:class="block3sensing"} blocks, and use the **Colour picker** tool to select a different area on the paper or object. 
 
-**Note:** The colour recognition of your computer's camera will improve if you lighten the space that you are working in. The camera may also get confused by similar colours in the room, for example, the colour of your top, wall, or chair. 
+**Note:** The colour recognition of your computer's camera will improve if you lighten the space that you are working in. The camera may also get confused by similar colours in the room, for example, the colour of your clothes, wall, or chair. 
 
 The below code allows for a slight variation of colours of red, blue, and green:
 
@@ -132,22 +132,5 @@ end
 To test that your code works, click on the green flag and hold up the pieces of paper or objects in front of the camera.
 
 --- /task ---
-
---- collapse ---
----
-
-title: More colours with nesting blocks
-
----
-
-Some creatures are multicoloured. It is possible to nest `or`{:class="block3operators"} blocks inside each other, so that the camera looks for a number of colours in one creature. To do this, use the following code:
-
-```blocks3
-<<<touching color [#62EF9A] ?> or <touching color [#A9E6A1] ?>> or <<touching color [#A2F090] ?> or <touching color [#69C6AF] ?>>>
-```
-
---- /collapse ---
-
-
 
 --- save ---
