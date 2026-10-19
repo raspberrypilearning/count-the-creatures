@@ -19,5 +19,6 @@ steps:
   - internal
 - title: More animals
 - title: Challenge
+  challenge: true
   completion:
   - external
